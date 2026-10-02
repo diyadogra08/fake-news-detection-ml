@@ -1,0 +1,21 @@
+text,label
+"The city library announced extended weekend hours for students.",REAL
+"The local school opened a new computer laboratory this month.",REAL
+"Scientists announced a new study about rainfall patterns.",REAL
+"The railway department published its updated timetable.",REAL
+"The university announced registration dates for the new semester.",REAL
+"The weather department issued a normal rainfall forecast.",REAL
+"The hospital opened a new outpatient department.",REAL
+"The company announced its quarterly financial results.",REAL
+"The museum will remain open during the holiday weekend.",REAL
+"The government website published an updated public notice.",REAL
+"Scientists discovered that drinking ordinary water makes people invisible.",FAKE
+"A social media post claims that phones can charge instantly from moonlight.",FAKE
+"An online post says eating one fruit gives humans the ability to fly.",FAKE
+"A website claims that computers can work forever without electricity.",FAKE
+"A viral message says students can become fluent in every language overnight.",FAKE
+"An online article claims that rainwater can turn stones into gold.",FAKE
+"A social media post says sleeping for one hour completely replaces a week of sleep.",FAKE
+"A viral claim says ordinary pencils can be used to power a car.",FAKE
+"An internet post claims that humans can breathe underwater after drinking juice.",FAKE
+"A website claims that reading a book once gives perfect memory forever.",FAKE
